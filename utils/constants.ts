@@ -380,6 +380,12 @@ export const TOKEN_REGISTRY_TRACKED_TOKENS = [
         name: "Tether USD",
         decimals: 6,
     },
+    {
+        address: "0x623B925b0A57a24EA8dE301F2E3E692cE903f0c3",
+        symbol: "MOVI",
+        name: "MoviToken",
+        decimals: 0,
+},
 ];
 
 /**
